@@ -1,11 +1,6 @@
 {
   "employees": [
     {
-      "id": 1,
-      "Name": "Reshma",
-      "Salary": "30000"
-    },
-    {
       "id": 2,
       "Name": "Basith",
       "Salary": "35000"
@@ -21,11 +16,6 @@
       "id": 7
     },
     {
-      "Name": "Vahidha",
-      "Salary": "75000",
-      "id": 8
-    },
-    {
       "id": 9,
       "name": "Giri",
       "salary": "38000"
@@ -34,11 +24,6 @@
       "id": 10,
       "name": "Khajabi",
       "salary": "45000"
-    },
-    {
-      "id": 11,
-      "name": "Pinky",
-      "salary": "30000"
     },
     {
       "id": 12,
@@ -56,9 +41,14 @@
       "salary": "45000"
     },
     {
-      "name": "Vahidha",
+      "name": "Rosy",
       "salary": "50000",
       "id": 16
+    },
+    {
+      "name": "Rosyroy",
+      "salary": "50000",
+      "id": 17
     }
   ]
 }
